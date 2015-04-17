@@ -1,3 +1,5 @@
+# Problem statement:
+# https://code.google.com/codejam/contest/6224486/dashboard#s=p2
 ONE = 1
 EYE = 2
 JAY = 3

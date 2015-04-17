@@ -1,3 +1,6 @@
+# Problem statement:
+# https://code.google.com/codejam/contest/6224486/dashboard#s=p0
+
 T = int(raw_input())
 
 for t in xrange(1, T+1):
